@@ -2,8 +2,8 @@ name: flutter_secure_storage_example
 description: Demonstrates how to use the flutter_secure_storage plugin.
 
 environment:
-  sdk: ">=2.12.0 <4.0.0"
-  flutter: ">=2.0.0"
+  sdk: ">=3.4.0 <4.0.0"
+  flutter: ">=3.22.0"
 
 dependencies:
   flutter:
